@@ -1,7 +1,7 @@
 # World-Companies-Finances-PowerBi
 An analytical Power BI dashboard that explores global companies across various industries. It visualizes earnings, revenue, and stock prices over the past 12 months to uncover performance trends and industry comparisons.
 
-##🧠 Workflow:
+## 🧠 Workflow:
 
 Extracted data from companiesmarketcap.com
 
@@ -11,7 +11,7 @@ Loaded into MySQL for data aggregation and surrogate key creation (Star Schema m
 
 Visualized and analyzed insights using Power BI
 
-##📊 Key Insights:
+## 📊 Key Insights:
 
 Oil & Gas leads in total revenue ($6.08T), with Saudi Aramco at $461.57B.
 
@@ -23,5 +23,5 @@ Retail employs the most people worldwide — Walmart with 2.1M employees.
 
 Lindt & Sprüngli has the highest stock price at $14,923.10/share.
 
-##📈 Project Scope:
+## 📈 Project Scope:
 This dataset spans August 2024 – August 2025 and represents publicly available company data (for educational and portfolio use only).
