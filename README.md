@@ -25,3 +25,5 @@ Lindt & Sprüngli has the highest stock price at $14,923.10/share.
 
 ## 📈 Project Scope:
 This dataset spans August 2024 – August 2025 and represents publicly available company data (for educational and portfolio use only).
+
+### Please see the files on this repository for the code and the PowerBI link for the visualization.
